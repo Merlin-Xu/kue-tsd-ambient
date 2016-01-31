@@ -1,0 +1,15 @@
+{
+  "name": "retyped-kue-tsd-ambient",
+  "description": "TypeScript typings for kue",
+  "version": "0.9-0",
+  "licence": "MIT",
+  "repository": "https://github.com/retyped/kue-tsd-ambient",
+  "typescript": {
+    "definition": "kue.d.ts"
+  },
+  "keywords": [
+    "retyped",
+    "tsd",
+    "tsd-ambient"
+  ]
+}
